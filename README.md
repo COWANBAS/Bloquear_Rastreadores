@@ -1,4 +1,4 @@
-O UserScript que visa melhorar a privacidade do usuário ao bloquear rastreadores de dados pessoais enquanto navega na internet. Ele atua removendo elementos e scripts que geralmente são usados por empresas para coletar informações sobre sua navegação, como cookies, scripts de rastreamento e iframes. Aqui está uma explicação detalhada do que ele faz
+O UserScript que visa melhorar a privacidade do usuário ao bloquear rastreadores de dados pessoais enquanto navega na internet. Ele atua removendo elementos e scripts que geralmente são usados por empresas para coletar informações sobre sua navegação, como cookies, scripts de rastreamento e iframes. 
 
 *Limpeza de Cookies*
 
