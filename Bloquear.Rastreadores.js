@@ -3,7 +3,7 @@
 // @description   Bloquear rastreadores de dados pessoais em qualquer site, permitindo a pesquisa no Google
 // @namespace     CowanBlock
 // @license       CowBas
-// @version       1.0
+// @version       2.0
 // @author        Cowanbas
 // @match         *://*/*
 // @run-at        document-start
