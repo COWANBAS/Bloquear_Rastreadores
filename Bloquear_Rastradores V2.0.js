@@ -55,7 +55,6 @@
     const iframes = document.getElementsByTagName('iframe');
     const blockedDomains = [
       'youtube.com',
-      'vimeo.com',
       'google.com',
       'twitter.com',
       'instagram.com',
