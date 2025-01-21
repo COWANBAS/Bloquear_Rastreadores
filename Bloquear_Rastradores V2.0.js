@@ -1,11 +1,11 @@
-﻿// ==UserScript==
-// @name          Bloqueio de Rastreadores + Remover GoogleHistory
-// @description   Bloqueia rastreadores de dados pessoais e remove redirecionamentos do Google
+// ==UserScript==
+// @name          Bloqueio de Rastreadores
+// @description   Bloquear rastreadores de dados pessoais em qualquer site, permitindo a pesquisa no Google
+// @namespace     CowanBlock
+// @license       CowBas
 // @version       2.0
 // @author        Cowanbas
 // @match         *://*/*
-// @match         *://*.google.tld/*
-// @match         *://www.google.tld/search?*
 // @run-at        document-start
 // ==/UserScript==
 
