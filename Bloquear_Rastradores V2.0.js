@@ -23,6 +23,8 @@
     const scriptTags = document.getElementsByTagName('script');
     const blockedDomains = [
       'google-analytics.com',
+      'youtube.com',
+      'google.com',
       'facebook.com',
       'doubleclick.net',
       'twitter.com',
